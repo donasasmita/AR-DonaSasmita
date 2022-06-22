@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mickey Mouse
+* source:	https://sketchfab.com/3d-models/mickey-mouse-c067d3d365104782a2dee25ce9a89118
+* author:	ukthegamerfnf2003thecool2022fan (https://sketchfab.com/ukthegamerfnf2003)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mickey Mouse" (https://sketchfab.com/3d-models/mickey-mouse-c067d3d365104782a2dee25ce9a89118) by ukthegamerfnf2003thecool2022fan (https://sketchfab.com/ukthegamerfnf2003) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

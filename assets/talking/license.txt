@@ -1,0 +1,11 @@
+Model Information:
+* title:	Talking
+* source:	https://sketchfab.com/3d-models/talking-09dece0b5eb84c64b9d60085c07f5e93
+* author:	DoctorFazbear123 (https://sketchfab.com/DoctorFazbear123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Talking" (https://sketchfab.com/3d-models/talking-09dece0b5eb84c64b9d60085c07f5e93) by DoctorFazbear123 (https://sketchfab.com/DoctorFazbear123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
